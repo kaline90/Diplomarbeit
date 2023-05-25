@@ -1,0 +1,23 @@
+Diplomarbeit ChoreoNotes
+
+Ich erstelle eine Seite die Choreograpien in eine Datenbank abspeichert. 
+
+Am Anfang soll sich der User registrieren um seine Choreo auch abspeichern zu können.
+In dieser Ablikation müssen die einzelnen Tanzschritte eingegeben werden, um eine Choreo in die Datenbang abgespeichert werden kann.
+Wenn der User fertig ist, soll er gefragt werden, ob er seine Choreo öffentlich zugänglich machen möchte.  
+
+Kundendaten: Vorname, Nachname, Kundennummer, Email
+
+Ich muss rechechieren mit welcher Technologie dieses Projekt durchfürbar ist. Ob Javascript, oder Engular.
+
+Wir werden auf die Technolgien Razor Pages oder Blazor Pages, die wir in der Schule lernen, zurückzugreifen.
+Ich werde mich mit Javascript oder Engular, Scrum, und Git beschäftigen.
+
+
+
+Kundendaten
+
+Vorname
+Nachname
+Kundennummer
+Email
